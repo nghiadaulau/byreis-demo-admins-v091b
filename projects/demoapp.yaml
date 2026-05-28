@@ -1,0 +1,2 @@
+files:
+  production: secrets/production.enc.yaml

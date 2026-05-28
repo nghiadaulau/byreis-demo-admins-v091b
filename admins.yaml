@@ -1,0 +1,5 @@
+version: 1
+admins:
+  - id: admin-nghiadaulau
+    age_key: age1hk8c56qcys45gvp3pe8kjzx270dz9xlfxe8zvrjw9pscchqnx9wsdcec4a
+    signer_key: vIoB5QtZbDAcOU5+PLPL74BJM8Sco+Yj2PreOoyzznI=
